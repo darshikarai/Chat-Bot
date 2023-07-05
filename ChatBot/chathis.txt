@@ -1,0 +1,189 @@
+
+good: [31-Jul-2019 ,15:03:42] :tell me about pgdac?
+good: [31-Jul-2019 ,15:03:42] :pd-dac
+new chat history: [31-Jul-2019 ,16:41:06] :file opened
+chat history data 
+: [31-Jul-2019 ,16:41:06] :ruchi
+ruchi: [31-Jul-2019 ,16:41:06] :what is cdac?
+ruchi: [31-Jul-2019 ,16:41:06] :cdac?
+ruchi: [31-Jul-2019 ,16:41:06] :cdac?
+new chat history: [31-Jul-2019 ,16:46:07] :file opened
+chat history data 
+: [31-Jul-2019 ,16:46:07] :ruchi
+ruchi: [31-Jul-2019 ,16:46:07] :what is cdac?
+ruchi: [31-Jul-2019 ,16:46:07] :what are the courses available?
+ruchi: [31-Jul-2019 ,16:46:07] : what is c-cat?
+ruchi: [31-Jul-2019 ,16:46:07] :what is c-cat?
+new chat history: [31-Jul-2019 ,16:55:53] :file opened
+chat history data 
+: [31-Jul-2019 ,16:55:53] :gdhg
+gdhg: [31-Jul-2019 ,16:55:53] :what is c-cat?
+gdhg: [31-Jul-2019 ,16:55:53] :when are the application forms of c-cat available?
+gdhg: [31-Jul-2019 ,16:55:53] :how and where to submit the c-cat application form?
+new chat history: [31-Jul-2019 ,22:30:41] :file opened
+chat history data 
+: [31-Jul-2019 ,22:30:41] :ruchi
+ruchi: [31-Jul-2019 ,22:30:41] :what is cdac ?
+ruchi: [31-Jul-2019 ,22:30:41] :cdac?
+ruchi: [31-Jul-2019 ,22:30:41] :cdacian?
+ruchi: [31-Jul-2019 ,22:30:41] :cdac?
+ruchi: [31-Jul-2019 ,22:30:41] :bye
+new chat history: [31-Jul-2019 ,22:32:41] :file opened
+chat history data 
+: [31-Jul-2019 ,22:32:41] :ruchi
+ruchi: [31-Jul-2019 ,22:32:41] :what is cdac
+ruchi: [31-Jul-2019 ,22:32:41] :how about cdac
+ruchi: [31-Jul-2019 ,22:32:41] :tell me the courses?
+ruchi: [31-Jul-2019 ,22:32:41] :what is c-cat?
+ruchi: [31-Jul-2019 ,22:32:41] :what is c-cat?
+new chat history: [01-Aug-2019 ,12:57:02] :file opened
+chat history data 
+: [01-Aug-2019 ,12:57:02] :ruchi
+ruchi: [01-Aug-2019 ,12:57:02] :rur7u
+ruchi: [01-Aug-2019 ,12:57:02] :bye
+new chat history: [01-Aug-2019 ,12:59:42] :file opened
+chat history data 
+: [01-Aug-2019 ,12:59:42] :ruchi
+ruchi: [01-Aug-2019 ,12:59:42] :what is cdac?
+ruchi: [01-Aug-2019 ,12:59:42] :what is c-cat?
+ruchi: [01-Aug-2019 ,12:59:42] :conducted
+ruchi: [01-Aug-2019 ,12:59:42] :when is cdac exam conducted
+ruchi: [01-Aug-2019 ,12:59:42] :bte
+ruchi: [01-Aug-2019 ,12:59:42] :hat
+ruchi: [01-Aug-2019 ,12:59:42] :bye
+new chat history: [01-Aug-2019 ,13:20:36] :file opened
+chat history data 
+: [01-Aug-2019 ,13:20:36] :ruchi
+ruchi: [01-Aug-2019 ,13:20:36] :what is c-cat?
+ruchi: [01-Aug-2019 ,13:20:36] :when is the c-cat conducted?
+ruchi: [01-Aug-2019 ,13:20:36] :bye
+new chat history: [01-Aug-2019 ,13:27:00] :file opened
+chat history data 
+: [01-Aug-2019 ,13:27:00] :nbdhgbdf
+new chat history: [01-Aug-2019 ,13:30:10] :file opened
+chat history data 
+: [01-Aug-2019 ,13:30:10] :vdftd
+vdftd: [01-Aug-2019 ,13:30:10] :what is c-cat?
+vdftd: [01-Aug-2019 ,13:30:10] :when is the c-cat conducted?
+vdftd: [01-Aug-2019 ,13:30:10] :bye
+new chat history: [01-Aug-2019 ,13:32:56] :file opened
+chat history data 
+: [01-Aug-2019 ,13:32:56] :bhfb
+bhfb: [01-Aug-2019 ,13:32:56] :scheduel for c-cat?
+bhfb: [01-Aug-2019 ,13:32:56] :when is the c-cat conducted?
+bhfb: [01-Aug-2019 ,13:32:56] :what are the minimum eligibility criteria for appearing for c-cat?
+bhfb: [01-Aug-2019 ,13:32:56] :what are the minimum eligibility criteria for appearing for c-cat?
+bhfb: [01-Aug-2019 ,13:32:56] :i have obtained degree in engineering or mca through distance education mode. am i eligible to apply for admission to c-dac’s pg diploma?
+bhfb: [01-Aug-2019 ,13:32:56] :when are the application forms of c-cat available?
+bhfb: [01-Aug-2019 ,13:32:56] :how and where to submit the c-cat application form?
+bhfb: [01-Aug-2019 ,13:32:56] :what are the different sections of the c-cat examination?
+bhfb: [01-Aug-2019 ,13:32:56] :what are the fees for c-cat?
+bhfb: [01-Aug-2019 ,13:32:56] :bye
+new chat history: [01-Aug-2019 ,13:41:40] :file opened
+new chat history: [01-Aug-2019 ,15:10:55] :file opened
+chat history data 
+: [01-Aug-2019 ,15:10:55] :ruchi
+ruchi: [01-Aug-2019 ,15:10:55] :what is cdac?
+ruchi: [01-Aug-2019 ,15:10:55] :what is ccat?
+ruchi: [01-Aug-2019 ,15:10:55] :when is ccat conducted?
+ruchi: [01-Aug-2019 ,15:10:55] :how can i apply?
+ruchi: [01-Aug-2019 ,15:10:55] :when are the application forms of c-cat available?
+ruchi: [01-Aug-2019 ,15:10:55] :i have obtained degree in engineering or mca through distance education mode. am i eligible to apply for admission to c-dac’s pg diploma?
+ruchi: [01-Aug-2019 ,15:10:55] :bye
+new chat history: [01-Aug-2019 ,15:42:36] :file opened
+chat history data 
+: [01-Aug-2019 ,15:42:36] :gvfc
+gvfc: [01-Aug-2019 ,15:42:36] :is
+gvfc: [01-Aug-2019 ,15:42:36] :the
+gvfc: [01-Aug-2019 ,15:42:36] :how
+gvfc: [01-Aug-2019 ,15:42:36] :you
+gvfc: [01-Aug-2019 ,15:42:36] :can
+gvfc: [01-Aug-2019 ,15:42:36] :do
+gvfc: [01-Aug-2019 ,15:42:36] :how do u do
+new chat history: [01-Aug-2019 ,22:41:07] :file opened
+chat history data 
+: [01-Aug-2019 ,22:41:07] :hjhuh
+hjhuh: [01-Aug-2019 ,22:41:07] :hi
+Candy: [01-Aug-2019 ,22:41:07] :hello
+hjhuh: [01-Aug-2019 ,22:41:07] :hello
+Candy: [01-Aug-2019 ,22:41:07] :hello
+hjhuh: [01-Aug-2019 ,22:41:07] :how are you doing?
+hjhuh: [01-Aug-2019 ,22:41:07] :do you provide training?
+new chat history: [01-Aug-2019 ,22:51:21] :file opened
+chat history data 
+: [01-Aug-2019 ,22:51:21] :cvhc
+cvhc: [01-Aug-2019 ,22:51:21] :do you provide training?
+cvhc: [01-Aug-2019 ,22:51:21] :do you provide training?
+new chat history: [01-Aug-2019 ,23:28:41] :file opened
+chat history data 
+: [01-Aug-2019 ,23:28:41] :tystgys
+tystgys: [01-Aug-2019 ,23:28:41] :hi
+Candy: [01-Aug-2019 ,23:28:41] :hi there
+tystgys: [01-Aug-2019 ,23:28:41] :what is cdac?
+tystgys: [01-Aug-2019 ,23:28:41] :do you provide training?
+tystgys: [01-Aug-2019 ,23:28:41] :what is ccat?
+tystgys: [01-Aug-2019 ,23:28:41] :when it is conducted?
+tystgys: [01-Aug-2019 ,23:28:41] :ok
+new chat history: [02-Aug-2019 ,00:55:55] :file opened
+chat history data 
+: [02-Aug-2019 ,00:55:55] :hgf
+hgf: [02-Aug-2019 ,00:55:55] :how are you  doing?
+hgf: [02-Aug-2019 ,00:55:55] :why i am not able to login even after providing correct login id and password?
+new chat history: [02-Aug-2019 ,00:58:40] :file opened
+chat history data 
+: [02-Aug-2019 ,00:58:40] :bdhd
+bdhd: [02-Aug-2019 ,00:58:40] :why i am not able to login even after providing correct login id and password?
+new chat history: [02-Aug-2019 ,01:00:30] :file opened
+chat history data 
+: [02-Aug-2019 ,01:00:30] :njjn
+njjn: [02-Aug-2019 ,01:00:30] :why i am not able to login even after providing correct login id and password?
+njjn: [02-Aug-2019 ,01:00:30] :tell me about courses
+njjn: [02-Aug-2019 ,01:00:30] :cdac?
+njjn: [02-Aug-2019 ,01:00:30] :training courses?
+new chat history: [02-Aug-2019 ,07:53:25] :file opened
+chat history data 
+: [02-Aug-2019 ,07:53:25] :ruchi
+ruchi: [02-Aug-2019 ,07:53:25] :what is cdac?
+ruchi: [02-Aug-2019 ,07:53:25] :how aew you doing?
+ruchi: [02-Aug-2019 ,07:53:25] :hi
+Candy: [02-Aug-2019 ,07:53:25] :hi
+ruchi: [02-Aug-2019 ,07:53:25] :do you provide training?
+new chat history: [02-Aug-2019 ,07:55:55] :file opened
+chat history data 
+: [02-Aug-2019 ,07:55:55] :gs
+gs: [02-Aug-2019 ,07:55:55] :how are yo doing?
+gs: [02-Aug-2019 ,07:55:55] :what is cdac?
+gs: [02-Aug-2019 ,07:55:55] :do you provide training?
+gs: [02-Aug-2019 ,07:55:55] :how r u
+gs: [02-Aug-2019 ,07:55:55] :bye
+new chat history: [02-Aug-2019 ,08:02:46] :file opened
+chat history data 
+: [02-Aug-2019 ,08:02:46] :gddg
+gddg: [02-Aug-2019 ,08:02:46] :hi
+Candy: [02-Aug-2019 ,08:02:46] :hey
+gddg: [02-Aug-2019 ,08:02:46] :hw r u?
+gddg: [02-Aug-2019 ,08:02:46] :how are you ?
+gddg: [02-Aug-2019 ,08:02:46] :what is ccat?
+gddg: [02-Aug-2019 ,08:02:46] :when is ccat conducted?
+gddg: [02-Aug-2019 ,08:02:46] :what are the minimum eligibility criteria for appearing for c-cat?
+gddg: [02-Aug-2019 ,08:02:46] :i have obtained degree in engineering or mca through distance education mode. am i eligible to apply for admission to c-dac’s pg diploma?
+gddg: [02-Aug-2019 ,08:02:46] :when are the application forms of c-cat available?
+gddg: [02-Aug-2019 ,08:02:46] :how and where to submit the c-cat application form?
+gddg: [02-Aug-2019 ,08:02:46] :fees
+new chat history: [02-Aug-2019 ,08:12:51] :file opened
+chat history data 
+: [02-Aug-2019 ,08:12:51] :gftf
+gftf: [02-Aug-2019 ,08:12:51] :fee information ?
+gftf: [02-Aug-2019 ,08:12:51] :how can i do some corrections (spelling, marks, %, year of passing, e-mail address, residence address etc.) in my c-cat application form?
+gftf: [02-Aug-2019 ,08:12:51] :why i am not able to login even after providing correct login id and password?
+gftf: [02-Aug-2019 ,08:12:51] :can you help me 
+gftf: [02-Aug-2019 ,08:12:51] :help me
+gftf: [02-Aug-2019 ,08:12:51] :how do you do
+gftf: [02-Aug-2019 ,08:12:51] :what are you doing?
+new chat history: [02-Aug-2019 ,08:24:51] :file opened
+new chat history: [02-Aug-2019 ,10:35:41] :file opened
+chat history data 
+: [02-Aug-2019 ,10:35:41] :sahil
+sahil: [02-Aug-2019 ,10:35:41] :how are you
+sahil: [02-Aug-2019 ,10:35:41] :candy
+sahil: [02-Aug-2019 ,10:35:41] :bye
